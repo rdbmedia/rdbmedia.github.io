@@ -1,2 +1,0 @@
-# rdbmedia.github.io
-Test
